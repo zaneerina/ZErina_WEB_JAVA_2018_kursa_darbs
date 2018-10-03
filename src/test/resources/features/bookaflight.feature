@@ -1,5 +1,5 @@
 Feature:
-
+#@TEST
   Scenario: Book flight Riga - Barcelona
 
     Given I am in Home page
